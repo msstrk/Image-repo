@@ -1,1 +1,1 @@
-# eks-example
+# Image-repo
